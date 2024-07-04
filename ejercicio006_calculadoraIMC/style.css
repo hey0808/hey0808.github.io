@@ -1,0 +1,25 @@
+
+body{
+    
+}
+/* el # es para la classe */
+#principal{
+  width: 200px;
+  background: turquoise;
+  border: green  1px solid;
+  border-radius: 10px;
+padding: 5px;
+margin: auto;
+
+} 
+
+/* el . es para la classe       //  el * es para todos*/  
+.contenido{
+    margin: 5px;
+    text-align: center;
+
+}
+
+input{
+    padding: 5px;
+}
