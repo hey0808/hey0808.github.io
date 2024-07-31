@@ -1,46 +1,44 @@
-{
-    "islas": [
-        {
-            "nombre": " Skopelos",
-            "descripcion": "Skópelos es una isla griega del mar Egeo occidental, una de las islas del grupo de las islas Espóradas septentrionales, y también la principal localidad de la isla. La isla de Skópelos se sitúa al este de la Grecia continental, al nordeste de la isla de Eubea  ",
-            "ubicacion": "Grecia",
-            "puntuacion": "10",
-            "imagen": "https://www.travel.gr/wp-content/uploads/2023/02/turopita-skopelos-scaled.jpg"
-        },
-        {
-            "nombre": " Creta",
-            "descripcion": "Creta es la isla más grande de Grecia​​ y la quinta en tamaño del mar Mediterráneo.​​ El archipiélago cretense conforma una de las trece periferias y una de las siete administraciones descentralizadas de Grecia  ",
-            "ubicacion": "Grecia",
-            "puntuacion": "10",
-            "imagen": "https://blog.egrecia.es/wp-content/uploads/creta.jpg"
-        },
-        {
-            "nombre": " Margarita ",
-            "descripcion": " a Isla de Margarita pertenece a Venezuela y se encuentra en el mar Caribe, a unos 40 kilómetros al norte de la costa. Este popular destino vacacional está compuesto por dos penínsulas unidas por las arenas y los manglares del Parque Nacional Laguna de la Restinga.  ",
-            "ubicacion": "Venezuela",
-            "puntuacion": "10",
-            "imagen": "https://media.istockphoto.com/id/908849276/es/foto/pueblo-t%C3%ADpico-de-pescadores-en-la-isla-norte-de-la-costa-de-margarita.jpg?s=612x612&w=0&k=20&c=OssRDipCKH_qpW8vI9aqsEWfj0aNqNVPcjkNzOWp3sc="
-        },
-        {
-            "nombre": "Bali",
-            "descripcion": " Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs. The island is home to religious sites such as cliffside Uluwatu Temple. To the south, the beachside city of Kuta has lively bars, while Seminyak, Sanur and Nusa Dua are popular resort towns. The island is also known for its yoga and meditation retreats. ",
-            "ubicacion": "Indonesia",
-            "puntuacion": "10",
-            "imagen": "https://i.pinimg.com/736x/e3/ae/e4/e3aee4bb73004b1a5f227c5d7fac5b52.jpg"
-        },
-        {
-            "nombre": " Skopelos",
-            "descripcion": "  ",
-            "ubicacion": "Grecia",
-            "puntuacion": "10",
-            "imagen": "https://www.travel.gr/wp-content/uploads/2023/02/turopita-skopelos-scaled.jpg"
-        },
-        {
-            "nombre": " Skopelos",
-            "descripcion": "  ",
-            "ubicacion": "Grecia",
-            "puntuacion": "10",
-            "imagen": "https://www.travel.gr/wp-content/uploads/2023/02/turopita-skopelos-scaled.jpg"
-        }
-    ]
-}
+[
+    {
+        "nombre": " Skopelos",
+        "descripcion": "Skópelos es una isla griega del mar Egeo occidental, una de las islas del grupo de las islas Espóradas septentrionales, y también la principal localidad de la isla. La isla de Skópelos se sitúa al este de la Grecia continental, al nordeste de la isla de Eubea  ",
+        "ubicacion": "Grecia",
+        "puntuacion": "10",
+        "imagen": "https://www.travel.gr/wp-content/uploads/2023/02/turopita-skopelos-scaled.jpg"
+    },
+    {
+        "nombre": " Creta",
+        "descripcion": "Creta es la isla más grande de Grecia​​ y la quinta en tamaño del mar Mediterráneo.​​ El archipiélago cretense conforma una de las trece periferias y una de las siete administraciones descentralizadas de Grecia  ",
+        "ubicacion": "Grecia",
+        "puntuacion": "10",
+        "imagen": "https://blog.egrecia.es/wp-content/uploads/creta.jpg"
+    },
+    {
+        "nombre": " Margarita ",
+        "descripcion": " a Isla de Margarita pertenece a Venezuela y se encuentra en el mar Caribe, a unos 40 kilómetros al norte de la costa. Este popular destino vacacional está compuesto por dos penínsulas unidas por las arenas y los manglares del Parque Nacional Laguna de la Restinga.  ",
+        "ubicacion": "Venezuela",
+        "puntuacion": "10",
+        "imagen": "https://media.istockphoto.com/id/908849276/es/foto/pueblo-t%C3%ADpico-de-pescadores-en-la-isla-norte-de-la-costa-de-margarita.jpg?s=612x612&w=0&k=20&c=OssRDipCKH_qpW8vI9aqsEWfj0aNqNVPcjkNzOWp3sc="
+    },
+    {
+        "nombre": "Bali",
+        "descripcion": " Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs. The island is home to religious sites such as cliffside Uluwatu Temple. To the south, the beachside city of Kuta has lively bars, while Seminyak, Sanur and Nusa Dua are popular resort towns. The island is also known for its yoga and meditation retreats. ",
+        "ubicacion": "Indonesia",
+        "puntuacion": "10",
+        "imagen": "https://i.pinimg.com/736x/e3/ae/e4/e3aee4bb73004b1a5f227c5d7fac5b52.jpg"
+    },
+    {
+        "nombre": " Skopelos",
+        "descripcion": "  ",
+        "ubicacion": "Grecia",
+        "puntuacion": "10",
+        "imagen": "https://www.travel.gr/wp-content/uploads/2023/02/turopita-skopelos-scaled.jpg"
+    },
+    {
+        "nombre": " Skopelos",
+        "descripcion": "  ",
+        "ubicacion": "Grecia",
+        "puntuacion": "10",
+        "imagen": "https://www.travel.gr/wp-content/uploads/2023/02/turopita-skopelos-scaled.jpg"
+    }
+]
